@@ -1,0 +1,698 @@
+{
+  "video_analysis": {
+    "total_frames": 53,
+    "vehicle_counts": [
+      {
+        "north": 0,
+        "south": 3,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 1,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 4,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 1,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 1,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 1,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 4,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 4,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 5,
+        "east": 1,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 5,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 1,
+        "south": 3,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 4,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 1,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 1,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 1,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 4,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 4,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 4,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 4,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 1,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 2,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 4,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 4,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 3,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 4,
+        "east": 4,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 6,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 3,
+        "east": 4,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 1,
+        "east": 5,
+        "west": 0
+      },
+      {
+        "north": 0,
+        "south": 2,
+        "east": 4,
+        "west": 0
+      }
+    ],
+    "traffic_density": [
+      2.6648208467189156,
+      2.737319805960093,
+      2.696738851772655,
+      2.7592350773593353,
+      2.2311838971885054,
+      5.291604935934932,
+      2.46036518116307,
+      1.842051510604506,
+      1.8526095827473907,
+      2.4291422439491726,
+      2.5774247146837297,
+      5.508213957912327,
+      1.7217065769145847,
+      2.8849675404271693,
+      3.8204483846578414,
+      4.193007850914,
+      4.772627636415564,
+      4.847683740057012,
+      4.329301337091844,
+      2.3018641178356725,
+      2.583967499170588,
+      3.9857703630295873,
+      2.7704261429826147,
+      2.462482393527656,
+      1.4071485123701373,
+      1.611228404552094,
+      4.877515099350906,
+      4.0746977157499105,
+      5.4802057347963755,
+      6.006581129250965,
+      3.690150487908492,
+      3.4831902087462367,
+      3.5972334415297764,
+      3.4978306208795407,
+      4.791988725217379,
+      4.8574009217857865,
+      4.309271861942155,
+      2.8416360919291037,
+      1.8258604112828227,
+      3.8536438506550135,
+      3.8518990937421527,
+      2.3978323562575192,
+      2.976714075094302,
+      2.939953537738499,
+      4.38750297607794,
+      3.19290876052825,
+      5.984966906806828,
+      5.092846916221485,
+      5.9146733735554635,
+      6.898291735737681,
+      5.647564435378929,
+      4.245992175755721,
+      4.811428777344797
+    ],
+    "queue_lengths": [
+      4,
+      5,
+      5,
+      5,
+      3,
+      5,
+      6,
+      4,
+      4,
+      3,
+      5,
+      6,
+      4,
+      4,
+      6,
+      6,
+      6,
+      8,
+      8,
+      5,
+      6,
+      7,
+      5,
+      4,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      3,
+      3,
+      3,
+      4,
+      6,
+      7,
+      7,
+      5,
+      4,
+      6,
+      6,
+      5,
+      6,
+      6,
+      8,
+      6,
+      7,
+      6,
+      6,
+      7,
+      7,
+      8,
+      9
+    ],
+    "detections_per_frame": [
+      5,
+      6,
+      6,
+      6,
+      4,
+      5,
+      6,
+      4,
+      4,
+      4,
+      5,
+      6,
+      4,
+      5,
+      7,
+      7,
+      7,
+      8,
+      8,
+      5,
+      6,
+      7,
+      5,
+      4,
+      3,
+      4,
+      6,
+      7,
+      7,
+      7,
+      5,
+      5,
+      5,
+      5,
+      6,
+      7,
+      7,
+      5,
+      4,
+      6,
+      6,
+      5,
+      6,
+      6,
+      8,
+      6,
+      9,
+      8,
+      9,
+      10,
+      10,
+      8,
+      9
+    ]
+  },
+  "ai_decisions": [
+    {
+      "active_direction": "south",
+      "green_time": 23,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 1.8131856677375133,
+        "south": 4.2131856677375135,
+        "east": 2.7731856677375135,
+        "west": 1.1731856677375132
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 5,
+        "average_cycle_time": 0.0,
+        "efficiency_score": 5.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    },
+    {
+      "active_direction": "east",
+      "green_time": 21,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 2.218985584476808,
+        "south": 4.618985584476808,
+        "east": 3.818985584476808,
+        "west": 1.4189855844768076
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 11,
+        "average_cycle_time": 0.10010001659393311,
+        "efficiency_score": 11.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    },
+    {
+      "active_direction": "south",
+      "green_time": 26,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 2.2157391081418125,
+        "south": 4.615739108141812,
+        "east": 3.8157391081418126,
+        "west": 1.4157391081418125
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 17,
+        "average_cycle_time": 0.19019127130508423,
+        "efficiency_score": 17.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    },
+    {
+      "active_direction": "east",
+      "green_time": 21,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 2.2207388061887468,
+        "south": 4.620738806188747,
+        "east": 3.8207388061887473,
+        "west": 1.420738806188747
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 23,
+        "average_cycle_time": 0.2711721441745758,
+        "efficiency_score": 23.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    },
+    {
+      "active_direction": "south",
+      "green_time": 21,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 1.3784947117750805,
+        "south": 3.7784947117750805,
+        "east": 1.6984947117750804,
+        "west": 0.8984947117750803
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 27,
+        "average_cycle_time": 0.3441555423974991,
+        "efficiency_score": 27.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    },
+    {
+      "active_direction": "south",
+      "green_time": 27,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 2.423328394874795,
+        "south": 4.823328394874795,
+        "east": 3.2233283948747946,
+        "west": 1.6233283948747947
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 32,
+        "average_cycle_time": 0.40984079153299335,
+        "efficiency_score": 32.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    },
+    {
+      "active_direction": "east",
+      "green_time": 27,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 2.5968292144930456,
+        "south": 4.196829214493046,
+        "east": 4.836829214493046,
+        "west": 1.6368292144930454
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 38,
+        "average_cycle_time": 0.4690070352938176,
+        "efficiency_score": 38.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    },
+    {
+      "active_direction": "south",
+      "green_time": 18,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 1.7473641208483608,
+        "south": 3.347364120848361,
+        "east": 2.7073641208483608,
+        "west": 1.1073641208483604
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 42,
+        "average_cycle_time": 0.5222068013536693,
+        "efficiency_score": 42.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    },
+    {
+      "active_direction": "east",
+      "green_time": 14,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 1.7482087666197914,
+        "south": 3.3482087666197913,
+        "east": 2.7082087666197916,
+        "west": 1.1082087666197913
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 46,
+        "average_cycle_time": 0.5700861616540933,
+        "efficiency_score": 46.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    },
+    {
+      "active_direction": "south",
+      "green_time": 16,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 1.3943313795159338,
+        "south": 2.994331379515934,
+        "east": 1.7143313795159338,
+        "west": 0.9143313795159337
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 49,
+        "average_cycle_time": 0.6131777289756225,
+        "efficiency_score": 49.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    }
+  ],
+  "summary": {
+    "total_frames_processed": 53,
+    "total_decisions_made": 10,
+    "average_green_time": 21.4,
+    "final_efficiency": 49.0
+  }
+}

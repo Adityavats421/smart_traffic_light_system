@@ -1,0 +1,13 @@
+{
+  "lane_counts": {
+    "Lane_1": 58,
+    "Lane_2": 62,
+    "Lane_3": 52,
+    "Lane_4": 62
+  },
+  "total_vehicles_passed": 234,
+  "total_time_passed": 300,
+  "vehicles_per_unit_time": 0.78,
+  "average_waiting_time": null,
+  "max_waiting_time": null
+}

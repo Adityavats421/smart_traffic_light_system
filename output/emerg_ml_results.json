@@ -1,0 +1,14 @@
+{
+  "lane_counts": {
+    "Lane_1": 56,
+    "Lane_2": 55,
+    "Lane_3": 73,
+    "Lane_4": 66
+  },
+  "total_vehicles_passed": 250,
+  "total_time_passed": 300,
+  "vehicles_per_unit_time": 0.8333333333333334,
+  "ml_performance": "No training data available",
+  "average_waiting_time": 55.4,
+  "max_waiting_time": 174
+}

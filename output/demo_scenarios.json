@@ -1,0 +1,137 @@
+[
+  {
+    "scenario": "Normal Morning Traffic",
+    "input_data": {
+      "direction_counts": {
+        "north": 4,
+        "south": 3,
+        "east": 5,
+        "west": 2
+      },
+      "density": 30.0,
+      "queue_length": 6
+    },
+    "ai_decision": {
+      "active_direction": "east",
+      "green_time": 58,
+      "traffic_pattern": "normal",
+      "priority_scores": {
+        "north": 10.0,
+        "south": 9.0,
+        "east": 9.8,
+        "west": 6.8
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 14,
+        "average_cycle_time": 0.0,
+        "efficiency_score": 14.0
+      },
+      "recommendations": [
+        "Traffic flow is normal - maintaining adaptive timing"
+      ]
+    }
+  },
+  {
+    "scenario": "Rush Hour Congestion",
+    "input_data": {
+      "direction_counts": {
+        "north": 15,
+        "south": 12,
+        "east": 18,
+        "west": 9
+      },
+      "density": 80.0,
+      "queue_length": 22
+    },
+    "ai_decision": {
+      "active_direction": "north",
+      "green_time": 60,
+      "traffic_pattern": "rush_hour",
+      "priority_scores": {
+        "north": 51.0,
+        "south": 46.5,
+        "east": 48.900000000000006,
+        "west": 35.400000000000006
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 68,
+        "average_cycle_time": 6.0,
+        "efficiency_score": 68.0
+      },
+      "recommendations": [
+        "High traffic detected - consider extending green times",
+        "Long queues detected - prioritize clearing backlog"
+      ]
+    }
+  },
+  {
+    "scenario": "Late Night Light Traffic",
+    "input_data": {
+      "direction_counts": {
+        "north": 1,
+        "south": 0,
+        "east": 2,
+        "west": 1
+      },
+      "density": 12.0,
+      "queue_length": 1
+    },
+    "ai_decision": {
+      "active_direction": "east",
+      "green_time": 15,
+      "traffic_pattern": "light",
+      "priority_scores": {
+        "north": 2.16,
+        "south": 1.3600000000000003,
+        "east": 2.8000000000000003,
+        "west": 2.0
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 72,
+        "average_cycle_time": 11.4,
+        "efficiency_score": 72.0
+      },
+      "recommendations": [
+        "Imbalanced traffic flow - adjust timing accordingly"
+      ]
+    }
+  },
+  {
+    "scenario": "Emergency/Heavy Traffic",
+    "input_data": {
+      "direction_counts": {
+        "north": 25,
+        "south": 20,
+        "east": 30,
+        "west": 15
+      },
+      "density": 95.0,
+      "queue_length": 35
+    },
+    "ai_decision": {
+      "active_direction": "north",
+      "green_time": 60,
+      "traffic_pattern": "rush_hour",
+      "priority_scores": {
+        "north": 78.0,
+        "south": 70.5,
+        "east": 75.0,
+        "west": 52.5
+      },
+      "performance_metrics": {
+        "total_waiting_time": 0.0,
+        "vehicles_processed": 162,
+        "average_cycle_time": 16.259999999999998,
+        "efficiency_score": 162.0
+      },
+      "recommendations": [
+        "High traffic detected - consider extending green times",
+        "Traffic density is very high - implement emergency protocols",
+        "Long queues detected - prioritize clearing backlog"
+      ]
+    }
+  }
+]

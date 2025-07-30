@@ -1,0 +1,20 @@
+{
+  "timestamp": 1751997148.7403991,
+  "performance_metrics": {
+    "total_waiting_time": 0.0,
+    "vehicles_processed": 55,
+    "average_cycle_time": 11.4,
+    "efficiency_score": 55.0
+  },
+  "traffic_history_summary": {
+    "total_measurements": 3,
+    "average_density": 38.333333333333336,
+    "average_queue_length": 8.333333333333334
+  },
+  "current_light_states": {
+    "north": "red",
+    "south": "red",
+    "east": "green",
+    "west": "red"
+  }
+}
