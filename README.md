@@ -71,6 +71,23 @@ The system uses a priority-based algorithm that considers:
 - Emergency vehicle presence (prioritizes earliest arrival)
 - Vehicle type distribution
 
+
+
+🆚 How Our Model is Different
+
+🚨 Emergency Vehicle Priority:
+Unlike conventional systems that operate on fixed timers or simple vehicle count, our AI model detects ambulances, fire trucks, and police vehicles using real-time object detection. When an emergency vehicle is detected, the system dynamically overrides normal cycles to ensure a green corridor for rapid passage. 🏥🚑🚒
+
+📡 Edge-based Real-time Decisions:
+Past systems often relied on centralized decision-making, causing delays in response. Our model performs computations on edge devices (like traffic controllers) to reduce latency and ensure instant traffic adjustments.
+
+📊 Predictive Flow Management:
+While previous systems react to current congestion, our AI uses historical data patterns to predict peak loads and preemptively adjust signal timings.
+
+🌱 Eco-Optimized Algorithms:
+By integrating emission sensors and optimizing idle times, our solution actively contributes to reducing vehicular emissions at intersections.
+
+
 ### Emergency Vehicle Priority
 - Emergency vehicles get automatic priority
 - Signals switch immediately when emergency vehicles are detected
