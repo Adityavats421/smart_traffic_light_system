@@ -7,6 +7,7 @@ import os
 import sys
 import subprocess
 
+
 def main():
     print("🚦 Starting AI Traffic Light System...")
     print("Press Ctrl+C to exit")
