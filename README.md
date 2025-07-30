@@ -6,7 +6,8 @@ An intelligent traffic light simulation system with emergency vehicle priority a
 
 
 
-### 1. Clone the Repository
+### 1. Clone the Repository\
+
 ```bash
 git clone https://github.com/Adityavats421/smart_traffic_light_system.git
 cd ai-traffic-light-system
