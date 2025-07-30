@@ -58,6 +58,7 @@ VEHICLE_TYPES = {
     3: 'rickshaw',
     4: 'bike',
     5: 'emergency'
+    
 }
 
 # Direction mapping
